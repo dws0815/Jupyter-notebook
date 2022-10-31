@@ -1,0 +1,1 @@
+# card_expenditure_pattern
